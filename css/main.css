@@ -1823,6 +1823,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content__buttons .btn {
     width: 215px;
     border-color: #FFFFFF;
+    border-radius: 8px !important;
     color: #FFFFFF;
     margin: 1.5rem 1.5rem 0 0;
     letter-spacing: .25rem;
